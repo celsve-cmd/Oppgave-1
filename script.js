@@ -4,8 +4,7 @@ function changeTextAndColor() {
 }
 
 function changeButtonBack(){
-    document.getElementById('myDiv').innerHTML = 'Kanskje denne?'
-    document.getElementById('myDiv').classList.style.backgroundColor = 'none'
+    
 }
 
 
