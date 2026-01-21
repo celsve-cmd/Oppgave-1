@@ -3,19 +3,19 @@ function changeTextAndColor() {
     document.getElementById('myDiv').style.backgroundColor = 'lightyellow'
 }
 
- function endreDenneTekst(){
-            document.getElementById('Denne?').innerHTML = "Nei...Kanskje ikke.."
-        }
+function endreDenneTekst() {
+    document.getElementById('Denne?').innerHTML = "Nei...Kanskje ikke.."
+}
 
-        function endreHmmmTekst(){
-            document.getElementById('Hmmm').innerHTML = "Prøv igjen!"
-        }
+function endreHmmmTekst() {
+    document.getElementById('Hmmm').innerHTML = "Prøv igjen!"
+}
 
-        function endreSkalViSeTekst(){
-            document.getElementById('SkalViSe').innerHTML = "Feil knapp!"
-        }
+function endreSkalViSeTekst() {
+    document.getElementById('SkalViSe').innerHTML = "Feil knapp!"
+}
 
-        function endreKanskjeTekst(){
-            document.getElementById('Kanskje?').innerHTML = "Nei.. Bare nei..."
-        }
+function endreKanskjeTekst() {
+    document.getElementById('Kanskje?').innerHTML = "Nei.. Bare nei..."
+}
 
