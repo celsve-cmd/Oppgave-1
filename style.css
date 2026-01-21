@@ -1,6 +1,7 @@
 body {
             background-color: rgba(122, 119, 119, 0.616);
             font-family: Georgia, 'Times New Roman', Times, serif;
+            
         }
 
         .overskrift {
@@ -39,7 +40,7 @@ body {
             margin-top: 100%;
         }
 
-        .button1 {
+        .button {
             margin-top: 1%;
             background-color: lightgreen;
             border-radius: 10px;
@@ -51,3 +52,5 @@ body {
             justify-content: center;
             align-items: center;
         }
+        
+       
